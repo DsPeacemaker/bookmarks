@@ -7,7 +7,7 @@ from .forms import LoginForm, UserRegistrationForm, UserEditForm, ProfileEditFor
 from .models import Profile
 
 
-@login_required()
+@login_required
 def dashboard(request):
     return render(request,
                   'account/dashboard.html',
