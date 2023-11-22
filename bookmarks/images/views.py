@@ -2,11 +2,11 @@ from django.shortcuts import render, redirect
 from django.contrib.auth.decorators import login_required
 from django.contrib import messages
 from django.shortcuts import get_object_or_404
-from .models import Image
-from .forms import ImageCreateForm
 from django.http import JsonResponse, HttpResponse
 from django.views.decorators.http import require_POST
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
+from .models import Image
+from .forms import ImageCreateForm
 
 
 @login_required
@@ -29,7 +29,6 @@ def image_create(request):
         # скомпоновать форму с данными,
         # информации о только что созданном элементе
         form = ImageCreateForm(data=request.GET)
-
     return render(request,
                   'images/image/create.html',
                   {'section': 'images',
@@ -60,6 +59,7 @@ def image_like(request):
         except Image.DoesNotExist:
             pass
     return JsonResponse({'status': 'error'})
+
 
 @login_required
 def image_list(request):
