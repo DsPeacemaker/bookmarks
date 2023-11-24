@@ -16,12 +16,12 @@ from action.models import Action
 def dashboard(request):
     # по умолчанию показать все действия
     actions = Action.objects.exclude(user=request.user)
-    following_ids = request.user.following.values_list('id', flag=True)
+    following_ids = request.user.following.values_list('id', flat=True)
     if following_ids:
         # извлечь действия пользователей на которых подписан
         actions = actions.filter(user_id__in=following_ids)
     # ограничить последними 10 действиями
-    actions = actions.selected_related('user', 'user__profile')[:10]\
+    actions = actions.select_related('user', 'user__profile')\
                                     .prefetch_related('target')[:10]
     return render(request,
                   'account/dashboard.html',
@@ -123,7 +123,7 @@ def user_follow(request):
             user = User.objects.get(id=user_id)
             if action == 'follow':
                 Contact.objects.get_or_create(
-                    user_form=request.user,
+                    user_from=request.user,
                     user_to=user)
                 create_action(request.user, 'is following', user)
             else:
