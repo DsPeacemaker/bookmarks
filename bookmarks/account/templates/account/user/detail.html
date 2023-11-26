@@ -39,13 +39,13 @@
     e.preventDefault();
     var followButton = this;
 
-    // добавить тело запроса
+    // add request body
     var formData = new FormData();
     formData.append('id', followButton.dataset.id);
     formData.append('action', followButton.dataset.action);
     options['body'] = formData;
 
-    // отправить HTTP запрос
+    // send HTTP request
     fetch(url, options)
     .then(response => response.json())
     .then(data => {
@@ -53,12 +53,12 @@
       {
         var previousAction = followButton.dataset.action;
 
-        // переключить текст кнопки и data-action
+        // toggle button text and data-action
         var action = previousAction === 'follow' ? 'unfollow' : 'follow';
         followButton.dataset.action = action;
         followButton.innerHTML = action;
 
-        // Обновить количество подписчиков
+        // update follower count
         var followerCount = document.querySelector('span.count .total');
         var totalFollowers = parseInt(followerCount.innerHTML);
         followerCount.innerHTML = previousAction === 'follow' ? totalFollowers + 1 : totalFollowers - 1;
