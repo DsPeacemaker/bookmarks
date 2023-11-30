@@ -22,5 +22,5 @@ class Action(models.Model):
         indexes = [
             models.Index(fields=['-created']),
             models.Index(fields=['target_ct', 'target_id']),
-            ]
+        ]
         ordering = ['-created']

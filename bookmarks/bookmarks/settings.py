@@ -31,7 +31,7 @@ INSTALLED_APPS = [
     'django_extensions',
     'images.apps.ImagesConfig',
     'easy_thumbnails',
-    'action.apps.ActionConfig',
+    'actions.apps.ActionsConfig',
     'debug_toolbar',
 ]
 
