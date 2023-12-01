@@ -7,4 +7,4 @@ class ImagesConfig(AppConfig):
 
     def ready(self):
         # импортировать обработчики сигналов
-        import signal
+        import images.signal
