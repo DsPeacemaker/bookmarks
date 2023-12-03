@@ -13,10 +13,10 @@
 ![profile](https://sun9-7.userapi.com/impg/LEZNWRUVWAsXBUJsKybKLPjW3Vygb559meM9RA/SQFAyBPS-tg.jpg?size=1280x684&quality=96&sign=bea8d25d1d06f22d52b1b8480f7d3fcc&type=album "Профиль пользователя")
 
 ![log-in](https://sun9-62.userapi.com/impg/eml_Uw-woLxebs3bXCa1rFBqHmUjIPRBtkTsLA/4IEfbK_Yj2o.jpg?size=1280x490&quality=96&sign=209763c9564f3a72d66aac189259924c&type=album "Login")
-![people](https://sun9-21.userapi.com/impg/OK7ySqVaFRxpBw2x1aUsc0UPFgiriENJvKdn4w/NP9ZRp7BE7Y.jpg?size=1280x530&quality=96&sign=69feb43d0f0085db5d7c42d875d30b58&type=album "people")
+![people](https://sun9-77.userapi.com/impg/nqUnzKqiSiewjoUWufxQDa3xVtdsw1sZMg1j5g/SpiaZUzUNyo.jpg?size=1273x372&quality=96&sign=a43d8e3a8e47537b514e341cc67fdb41&type=album "people")
 ![images](https://sun9-71.userapi.com/impg/qCM18t2-6E1AePWKu3O_18hmIwJPBtSXjKyJEg/MrO-qApjNSg.jpg?size=1280x696&quality=96&sign=4cfd8b1128969836f986d5a0eb1d273e&type=album "Images")
 
-![select](https://sun9-71.userapi.com/impg/-NWdZuONoCG8pJvV-7MfxW91ljetv8sZfgll3A/iImBRAZeh0Q.jpg?size=1280x984&quality=96&sign=fca4391b2cf8ec720973bdb76c9bf9ae&type=album "Select")
+![select](https://sun9-49.userapi.com/impg/jioxBi8LQt3oO9jFsmFbAWXIqNd5ryAmj4Kouw/T5Q43Ma1cNk.jpg?size=1249x878&quality=96&sign=b095bad9fb9248fe1d085f40e6f6601d&type=album "Select")
 ![Post](https://sun9-47.userapi.com/impg/gMjnrng1qQ5YC_ie361GPnnAyVBHnW6x9s9sdg/-fO5J09lxTA.jpg?size=1280x463&quality=96&sign=f1c756876973dd9623351676047cc1dc&type=album "post")
 ![Add](https://sun9-61.userapi.com/impg/0vLdO7lOnUijya37Yb_fjgMKJu_ufJi-42T84w/Iq0qnze6cHA.jpg?size=1113x666&quality=96&sign=f05fcfcd76d06caf7d75f10186f89e43&type=album "Add")
 ![Image_added](https://sun9-59.userapi.com/impg/Gw98D9VEt74z50-kZ-iRfmWPHAdKLrJmbfykVg/OlQggztW30U.jpg?size=1280x683&quality=96&sign=3afd56e1157c68b20ad8efab6d6d0ef7&type=album "Image_added")
