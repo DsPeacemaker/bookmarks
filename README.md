@@ -8,7 +8,7 @@
 
 
 
-![image_home_page](https://sun9-29.userapi.com/impg/IjpWeU7ShT9Qh4Q7Pr0Npj3cLNReqBLdw3oZGA/GDcj-a5blSY.jpg?size=1280x672&quality=96&sign=21a9c792d11a7704ce5137d3b98ffd38&type=album "Домашнаяя страница")
+![image_home_page](https://sun9-45.userapi.com/impg/zUvX37Tw3PCNCCrowPQxvw04DOWAzl39AYEdkg/yY6lyGyL59E.jpg?size=771x682&quality=96&sign=01d615978b9e44d985364d496db38951&type=album "Домашнаяя страница")
 
 ![profile](https://sun9-7.userapi.com/impg/LEZNWRUVWAsXBUJsKybKLPjW3Vygb559meM9RA/SQFAyBPS-tg.jpg?size=1280x684&quality=96&sign=bea8d25d1d06f22d52b1b8480f7d3fcc&type=album "Профиль пользователя")
 
